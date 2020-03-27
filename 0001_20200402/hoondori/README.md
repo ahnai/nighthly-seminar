@@ -3,7 +3,7 @@ Featuretools
 
 # 간략 소개  
 
-* [deep feature synthesis.pdf]()
+* [deep feature synthesis.pdf](https://github.com/ahnai/nighthly-seminar/blob/master/0001_20200402/hoondori/Deep_feature_synthesis.pdf)
 * [5 Minute Quick Start](https://docs.featuretools.com/en/stable/)
 
 
