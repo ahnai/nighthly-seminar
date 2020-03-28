@@ -25,6 +25,9 @@ Featuretools
 
 #### (TBD) COVID-19 prediction
 
+* [baseline](https://nbviewer.jupyter.org/github/hoondori/predict-covid19-global/blob/master/BaselineSolution.ipynb)
+* [with featuretools](https://nbviewer.jupyter.org/github/hoondori/predict-covid19-global/blob/master/Featuretools-solution%20.ipynb)
+
  
 
 
